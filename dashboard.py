@@ -24,7 +24,7 @@ def stock_prices():
                      ])
     fig.update_layout(title='Prices over time',
                       xaxis_title='Dates',
-                      yaxis_title='Prices')
+                      yaxis_title='Prices'),
     return fig
 
 
