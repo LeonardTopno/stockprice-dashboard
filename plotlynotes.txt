@@ -1,0 +1,40 @@
+dash_core_components
+dash_html_components
+
+are part of dash package only. So when we install dash package, these two requirement are already satisfied.
+Hence, one need not install these two components separately.
+
+--
+Plotly express requires pandas to be installed.
+--
+
+Sequence of dependency:
+1. plotly
+2. dash
+
+
+
+Components
+1. dash_core_components
+2. dash_html_components
+3. dash_bootstrap_components
+
+--
+dash_core_components and dash_html_components is deprecated:
+
+Please replace
+`import dash_core_components as dcc` with `from dash import dcc`
+
+Please replace
+`import dash_html_components as html` with `from dash import html`
+
+--
+
+Dropdowns are created using the Dropdown() function, which has the following arguments-
+
+1. id - Unique identifier of the dropdown
+2. options - Sets the 'label' (the text visible in the dropdown) and 'value' (used by dash to communicate with callbacks) as key value pair.
+3. value - default selection for the dropdown
+
+--
+Each element (Dropdown, Graph)has following:
