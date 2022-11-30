@@ -1,4 +1,6 @@
-plotly
-dash
+plotly==5.11.0
+dash==2.7.0
+pandas==1.5.2
+google-cloud-bigquery==3.4.0
 
 
