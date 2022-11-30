@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leo-project-name",
+  "private_key_id": "198aed8804a024b0f76d35cfa957674f8c62fcd5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWGH3kV029EfN6\njKLpQxpLBfxgFb9nsusukEdjuQXrpYuFCFs5VRiqAyjaavJl0T5RWI1YM4ew8sbZ\na/+/J0/UZOrpC1Sv7I2h98DJ3dnsEb//KqGE+Zjrv7bfvOjf+/cHVjQbOmm7DQNs\njO4OHotXTUPvAF/y37mxDCmTwBSeZIvFhZqzioN20zV2SejQUmTXZClfDVO4HXh0\njgroXLV1zi4qXtNAhSi5Cz5o1+senoDNpib0hLNeZs/7pBb8dqLlkPasz8I0+36D\nT+cdLVNaOYCO0DCIZBm4kgGB49t/dLbOw+I7WNIsnTJTe0tZLf01H+ogFXOt5v2V\nFbEd0rPbAgMBAAECggEAA8DzDQ3d5NeZFjyEKn9CHhQ1PpXspoRD+3MiRe0vp7gJ\nKDeQSHvHVSElGWlJTKCSBWjIiCcpwpQfwvo/eCFcjrxDX7an1Ip+9EkE6keBFrVO\n7uu7BF9Vore1tBy+WjOr9uQCA5hPYp0ts75GidXbuEA3bbe9ro5Hz5S1SXupSFjD\nj+8bZQ4gVMkPgxtxlkYQIPcgztF147vWCAOUrvghZpjFilhsWQ2JgngAbYwMP5KZ\nx8B9jPnA9C8csM2Z8iBtswCGBTQflsQDWUF4oLOR6rCbSM9LoaJMAHVtnsXzZSPA\nPtbEUNjvcLxxNSB21qXjVztpUBstmZe/QPPVYNs2CQKBgQDPp1CZXOO0nzMCJ4zI\noF4NSNKGEC1OGR7h3OJlqJMZypgotcgyo8fMVl908vTMKM29fUTQGbojogbXm7ZN\nynvnyJuOBXthUikD+vO97uwfK5HHIu88d/MgvNHrFedQTjFKm4iZJXKKPax2s9kB\nmVTNbXrBQXQZGjc6uLIMZO7YfwKBgQC5CpQTRnt7cvn2/a59ynvawSKeyXHLpKkI\nAwkYlvjgb6y013bP3UPpRToYQI0XNbjPcSNwjb2bxbx0t6nhmpHz5mmc3VmQssbn\nC28UEVQBsP6STuR6FrNBVr5bbXWRHRd46nGdzWMIugJkOREIwXP5t+iMwJCH6Jnr\nDKOhfZnWpQKBgDAZBSZAyc1wgpQhLQ7bdm2FTJ4Y6SWJ1Alk7Fu3rDrxHkVvtatl\nHEZMS1f/XoxbdyxI88Nv8hmG0ibmvldOa1zIrp86zdVA/pcZbZO036Ropx+FC/zp\nm7sdgVH+hNGpCunJFN7EOb+jgWsNRVqFdYsPrLtOueGGnPxRA4yzZE9pAoGBAIWv\nctOKNGQ36Qfct1gCFgExT8XQW/p4d/Zl2wh86kmb5PayRBBhF1NMxHAJEuYV1fNp\nFeWXQclszn60wnNPrOq9KMg/0xmLT9BUnmetLTgbm5AwlzjtdYxbEyQSrMGudurQ\n1kzfuhDv8hJeeEQPH67mg4hNBx5pmeoLM5zUlXRRAoGAB13oITMg4WBkX3wuYu3c\nHlPo0H8N0VsY00Dm0kQoCoTCl36imRtqkBkPD2WaKdYjNarnc1sWjCtIe2RdNC2o\nm3ApmpjrO8/yrMKWj3LNBdniSEFpGLGAR514AOc8ZmXwPoTCneMKm7qJfLWP0mzp\n9Jcd/utPOMAc8FMYxyPwPnM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leo-service-account@leo-project-name.iam.gserviceaccount.com",
+  "client_id": "114804164308132314164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leo-service-account%40leo-project-name.iam.gserviceaccount.com"
+}
